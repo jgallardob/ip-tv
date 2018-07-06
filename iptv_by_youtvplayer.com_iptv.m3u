@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15218177831.jpg" group-title="Chileiptv" , Canal 13 
 http://144.217.79.172:25461/live/tv05a/tvpremiumhd.com/2010.ts 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486614829.png" group-title="Chileiptv" , TVN 
